@@ -1,0 +1,2 @@
+This is how we write multiple commands on the commandline to execute at once { cmd1; cmd2; cmdN..;}
+Thu Sep  7 10:38:14 GMT 2023

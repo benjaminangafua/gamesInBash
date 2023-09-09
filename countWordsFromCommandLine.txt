@@ -1,0 +1,1 @@
+To write a command that count the number of lines, char and words we write echo 'Text...'| wc

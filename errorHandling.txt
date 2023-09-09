@@ -1,0 +1,4 @@
+To catch an error we run
+$ls -lah 1> filename 2> errorfile
+Where 1 is a standard descriptor for STDOUT and 2 for STDERR; 0 is for STDIN
+In the above command, if the command ls -lah returns an error it will go in the errorfile while the successful part goes into the filename

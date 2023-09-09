@@ -1,0 +1,4 @@
+This is a soflink file.
+To create a soft link file relatively we run $ln -s <filename> <softlinkname>
+To enable access of contents from a softlink file we create it by using the absolute path
+$ln -s /home/<user>/Documents/<dirname>

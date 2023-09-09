@@ -1,0 +1,4 @@
+No.       Subject          Marks
+1         Maths            30.00
+2         Science          40.00
+3         History          70.00
