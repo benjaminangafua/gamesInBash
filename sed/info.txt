@@ -1,0 +1,10 @@
+1. eSim on Cloud
+2. This system      allows the users     to draw analog and digital circuits     and simulate them. The users        have a facility to drag and drop components from the left pane onto the schematic grid on the right pane. 
+3. The components on the grid are connected using wires. The circuit can then be simulated using the different simulation parameters (DC Solver, DC Sweep, Transient analysis, and AC analysis). 
+4. The basic ERC check enables the users to find out errors if any. 
+
+5. The size of the schematic grid can be changed from A1 to A5 paper sizes along with portrait and landscape modes. 
+
+
+
+6. The users can also print the circuit or save it in pdf format for documentation purposes. A demo is shown below.

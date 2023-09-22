@@ -1,0 +1,12 @@
+conditionals.sh
+countString.sh
+primeNum.sh
+strings.sh
+valuesToCompute.sh
+file1.txt
+file2.txt
+file3.txt
+groupTogether.txt
+sorted1.txt
+sorted2.txt
+students.txt
