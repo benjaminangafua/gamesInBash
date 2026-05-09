@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Data Store
-declare -A contacts
+declare -afFirtx contacts
 
 function openContact(){
     echo -e "Only reply with the number that applies.\n"
@@ -15,8 +15,8 @@ function createContact(){
     read -p "Enter your name: " name
     read -p "Enter your phone number: " phone
 
-    contacts["$name"]=$phone
-
+    contacts[$name]=$phone
+ 
     echo -e "\nAdded $name: $phone\n"
 }
 
@@ -43,6 +43,7 @@ function displayContat(){
         do
             local phone="${contacts[$name]}"
             echo -e "$name: $phone\n"
+            echo "$contacts"
         done
     fi
 }
